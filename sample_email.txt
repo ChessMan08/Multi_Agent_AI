@@ -1,0 +1,11 @@
+From: alice@example.com
+To: support@example.com
+Subject: Complaint: Defective product received
+
+Hello,
+
+I would like to file a complaint regarding the product I received last week. It is defective...
+Please address this issue as soon as possible.
+
+Thank you,
+Alice

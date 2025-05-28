@@ -1,0 +1,9 @@
+{
+    "invoice_number": "INV-002",
+    "date": "2025-05-29",
+    "customer": { "name": "Beta Corp", "address": "123 Market St" },
+    "items": [
+        { "description": "Widget", "quantity": 10, "unit_price": 9.99 },
+        { "description": "Gadget", "quantity": 3, "unit_price": 19.99 }
+    ]
+}
