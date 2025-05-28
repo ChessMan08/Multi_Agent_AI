@@ -12,7 +12,7 @@ A Python‑based system that processes PDF, JSON, and email inputs. The Classifi
 - **Interactive Notebook:** `RAG_agent.ipynb` for step‑by‑step exploration
 
 ## Repository Structure
-
+```text
 Multi-Agent-AI/                  # Project root
 ├── README.md                    # Project overview and instructions
 ├── requirements.txt             # Python dependencies
@@ -31,7 +31,7 @@ Multi-Agent-AI/                  # Project root
 ├── json_agent.py                # JSON payload processing
 ├── email_agent.py               # Email parsing & extraction
 └── memory.py                    # SQLite memory module
-
+```
 ## Tech Stack & Dependencies
 
 - Python 3.7+
